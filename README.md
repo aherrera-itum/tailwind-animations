@@ -114,6 +114,7 @@ This plugin also brings a utility class to animate elements based on their posit
 > Example extracted from [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/view-timeline)
 
 ## Contributors 👑
+//Modificación
   
 <a href="https://github.com/midudev/tailwind-animations/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=midudev/tailwind-animations" />
